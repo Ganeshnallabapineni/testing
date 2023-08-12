@@ -1,0 +1,12 @@
+2023-07-21 15:39:19,949 :INFO : test_logging :information
+2023-07-21 15:39:19,949 :WARNING : test_logging :something is in wrong mode
+2023-07-21 15:39:19,949 :ERROR : test_logging :a major error happened
+2023-07-21 15:39:19,949 :CRITICAL : test_logging :critical issue
+2023-07-21 15:40:49,044 :INFO : test_logging :information
+2023-07-21 15:40:49,045 :WARNING : test_logging :something is in wrong mode
+2023-07-21 15:40:49,045 :ERROR : test_logging :a major error happened
+2023-07-21 15:40:49,045 :CRITICAL : test_logging :critical issue
+2023-07-21 15:41:30,506 :INFO : test_logging :information
+2023-07-21 15:41:30,506 :WARNING : test_logging :something is in wrong mode
+2023-07-21 15:41:30,506 :ERROR : test_logging :a major error happened
+2023-07-21 15:41:30,507 :CRITICAL : test_logging :critical issue
